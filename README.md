@@ -10,7 +10,7 @@ _This basic website shows text and three pictures._
 
 ## Setup/Installation Requirements
 
-* _Clone _
+* _Clone this repository._
 * _In the cloned folder, double click on index or index.html. If the file doesn't open, right click on index or index.html and "open with" your browser of choice._
 
 ## Known Bugs
